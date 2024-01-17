@@ -1,0 +1,26 @@
+{
+  "name": "meow-protocol",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.7",
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-truffle5": "^2.0.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^5.0.0",
+    "bignumber.js": "^9.0.1",
+    "chai": "^4.3.0",
+    "dotenv": "^8.2.0",
+    "ethereum-waffle": "^3.3.0",
+    "ethers": "^5.0.31",
+    "hardhat": "^2.6.0",
+    "lodash": "^4.17.21"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@openzeppelin/contracts": "4.3.1",
+   "@openzeppelin/contracts-upgradeable": "4.3.1",
+    "@openzeppelin/test-helpers": "4.3.1"
+  },
+  "scripts": {
+  }
+}
